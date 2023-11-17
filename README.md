@@ -1,14 +1,15 @@
 ## 👋 Hi, I’m Alex Helber
-- 👀 I’m interested in Web Development and Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development, Open Source Software
+- 🌱 I’m currently learning GoLang
 
 ### Stack tags:
 
 - python
-- fastapi
-- django
+- golang
+- docker
+- lunux
+- a little frontend
+
 
 <!---
 hel8er/hel8er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

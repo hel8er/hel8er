@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Alex Helber
 - 👀 I’m interested in Web Development, Open Source Software
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning Rust
 
 ### Stack tags:
 

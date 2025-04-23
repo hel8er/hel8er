@@ -7,7 +7,8 @@
 - python
 - golang
 - docker
-- lunux
+- linux
+- rust
 - a little frontend
 
 
